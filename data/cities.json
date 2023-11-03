@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Shkoder",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2023-10-22T18:24:51.415Z",
+      "notes": "Shkodraaaaaaa",
+      "position": {
+        "lat": "42.02481360781777",
+        "lng": "19.566650390625004"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Milan",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-22T18:42:38.720Z",
+      "notes": "Test",
+      "position": {
+        "lat": "45.43700828867391",
+        "lng": "9.184570312500002"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Greater Manchester",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-22T18:44:51.152Z",
+      "notes": "Manchester the greatest city!",
+      "position": {
+        "lat": "53.46516070239169",
+        "lng": "-2.2192382812500004"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2023-10-26T19:56:42.826Z",
+      "notes": "Hello weed!!!",
+      "position": {
+        "lat": "52.35211857272093",
+        "lng": "4.894409179687501"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Tirana",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2023-10-26T20:01:43.617Z",
+      "notes": "Nanaaaa",
+      "position": {
+        "lat": "41.308760782192856",
+        "lng": "19.822082519531254"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Banja Luka",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2023-11-01T18:33:50.397Z",
+      "notes": "H",
+      "position": {
+        "lat": "44.66865287227321",
+        "lng": "17.094726562500004"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-01T18:34:13.725Z",
+      "notes": "H",
+      "position": {
+        "lat": "40.3549167507906",
+        "lng": "-3.6914062500000004"
+      },
+      "id": 98443214
+    }
+  ]
+}
